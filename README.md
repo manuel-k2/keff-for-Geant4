@@ -40,6 +40,6 @@ Execute in the build folder:
 with XXX the batch size.
 
 ### References:
-[1] https://geant4.web.cern.ch/
-[2] OECD Nuclear Energy Agency, International handbook of evaluated criticality safety benchmark experiments, NEA/NSC/DOC(95)/03 (2016).
-[3] https://geant4-userdoc.web.cern.ch/Doxygen/examples_doc/html/index.html
+  [1] https://geant4.web.cern.ch/
+  [2] OECD Nuclear Energy Agency, International handbook of evaluated criticality safety benchmark experiments, NEA/NSC/DOC(95)/03 (2016).
+  [3] https://geant4-userdoc.web.cern.ch/Doxygen/examples_doc/html/index.html
