@@ -8,7 +8,7 @@
 
 ### Citation:
 When using this code please cite the reference below to give credit to the work that went into developping this code:  
-  * M. Kreutle, A. Borella, S. Hebel, G. Kirchner, Validating Geant4 with Monte Carlo simulations in the context of nuclear disarmament verification, submitted to Nuclear Instruments and Methods in Physics Research Section A (2023)
+  * M. Kreutle, A. Borella, S. Hebel, G. Kirchner, Validating Geant4 with Monte Carlo simulations in the context of nuclear disarmament verification, submitted to Nuclear Instruments and Methods in Physics Research Section A (2023).
 
 ### Description:
 This repository contains a custom extension for Geant4 [1] to calculate the effective neutron multiplication factor keff of a set-up.
@@ -40,6 +40,6 @@ Execute in the build folder:
 with XXX the batch size.
 
 ### References:
-  [1] https://geant4.web.cern.ch/
-  [2] OECD Nuclear Energy Agency, International handbook of evaluated criticality safety benchmark experiments, NEA/NSC/DOC(95)/03 (2016).
+  [1] https://geant4.web.cern.ch/ \
+  [2] OECD Nuclear Energy Agency, International handbook of evaluated criticality safety benchmark experiments, NEA/NSC/DOC(95)/03 (2016). \
   [3] https://geant4-userdoc.web.cern.ch/Doxygen/examples_doc/html/index.html
