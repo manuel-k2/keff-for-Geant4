@@ -29,13 +29,13 @@ The implementation of the NeutronKeffective UserAction can also be observed in t
 
 Set number of generations as number of events in run.mac in build folder:
 
-  "run/beamOn XX"
+    "run/beamOn XX"
 
 with XX the number of simulated fission generations.
 
 Execute in the build folder:
 
-  "./fission run.mac 1 XXX"
+    "./fission run.mac 1 XXX"
 
 with XXX the batch size.
 
