@@ -25,19 +25,17 @@ It runs as a standalone simulation that takes the event number as the number of 
   - PrintKeff(...) to RunAction::EndOfRunAction(...)
 
 ### Example project:
-The implementation of the NeutronKeffective UserAction can also be observed in the example_project that simulates the criticality experiment MIXCOMPMIXED001 Case 1 from the NEA International Handbook of Evaluated Criticality Safety Benchmark Experiments [2].
-
-It is built as the general Geant4 example projects (execute "cmake .." and "make" in build folder) [3].
+The implementation of the NeutronKeffective UserAction can also be observed in the example_project that simulates the criticality experiment MIXCOMPMIXED001 Case 1 from the NEA International Handbook of Evaluated Criticality Safety Benchmark Experiments [2]. It is built as the general Geant4 example projects (execute "cmake .." and "make" in build folder) [3].
 
 Set number of generations as number of events in run.mac in build folder:
 
-"run/beamOn XX"
+  "run/beamOn XX"
 
 with XX the number of simulated fission generations.
 
 Execute in the build folder:
 
-"./fission run.mac 1 XXX"
+  "./fission run.mac 1 XXX"
 
 with XXX the batch size.
 
